@@ -1,6 +1,6 @@
 name: EPSportsTherapy
 favicon: null
-layout_spectrum: 0.3991475834045559
+layout_spectrum: 0.9112
 typography_spectrum: 0.7033828042913228
 title: Ed Pratt Sports Therapy
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#fefefe'
+    - '#2a7f72'
+    - '#2bb9a7'
+    - '#82cec7'
+    - '#cce9e8'
   brandStrength: 0.775598730193451
   lightness: 0.533719600411132
-  saturation: 0.6381406330037862
+  saturation: 0.6875
   rhythmicContrast: 0.8411432767752558
 purpose: []
