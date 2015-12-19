@@ -1,0 +1,28 @@
+name: EPSportsTherapy
+favicon: null
+layout_spectrum: 0.3991475834045559
+typography_spectrum: 0.7033828042913228
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.775598730193451
+  lightness: 0.533719600411132
+  saturation: 0.6381406330037862
+  rhythmicContrast: 0.8411432767752558
+purpose: []
