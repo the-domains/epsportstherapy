@@ -1,20 +1,4 @@
-name: EPSportsTherapy
-favicon: null
-layout_spectrum: 0.9112
 typography_spectrum: 0.7033828042913228
-title: Ed Pratt Sports Therapy
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fefefe'
@@ -26,4 +10,21 @@ color:
   lightness: 0.533719600411132
   saturation: 0.6875
   rhythmicContrast: 0.8411432767752558
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9112
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: EPSportsTherapy
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Ed Pratt Sports Therapy
+description: Professional Sports Therapy & Sports Massage
 purpose: []
